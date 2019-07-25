@@ -35,4 +35,4 @@ C:I
 
 ## License
 
-This Malady interpreter is distributed under the GNU General Public License 3.0.
+This Malady interpreter is distributed under the GNU General Public License 3.0. That dancing spider is a Spyder and belongs to Neopets.
