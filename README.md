@@ -1,7 +1,7 @@
 # Malady ![Spyder PetPet](http://images.neopets.com/template_images/spyder_black_dance.gif)
 **Malady** is a string-substitution based [esolang](https://en.wikipedia.org/wiki/Esoteric_programming_language). The premise
-lies in defining rules within the code that are then used to alter the remaining code until no code is left. I don't really
-know it it's Turing complete or not, this is just an experiment.
+lies in defining rules within the code that are then used to alter the remaining code until no code is left. A Turing Machine
+can be easily implemented in Malady, thus rendering Malady turing-complete.
 
 ## How to Install
 You can grab a copy of Malady by cloning this repository. Malady requires **Python 3** to run. You may also compile
