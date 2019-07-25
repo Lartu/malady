@@ -29,7 +29,7 @@ Add the values of A and B together in C:
 >~A:I,~B:I|*->
 A:IIIII
 B:III
-C:I
+C:
 ```
 
 
