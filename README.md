@@ -11,7 +11,7 @@ Malady by running `make && sudo make install`, provided you have **Cython3** and
  - A **source file** in Malady is a sequence of lines of text (a textfile).
  - There are two types of lines in Malady: **Rule** lines and **Text** lines.
  - Lines that don't begin with `>` are considered plain **text**.
- - **Rule** lines begin with the character `>`, and follow the format `> conditions | replacements`.
+ - **Rule** lines begin with the character `>`, and follow the format `>conditions|replacements`.
    - Each rule occupies one entire line of code.
    - Conditions are comma separated values that must be matched in any non-rule line (or lines) of the source code
      in order to trigger the rule.
