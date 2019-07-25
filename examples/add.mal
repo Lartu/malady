@@ -1,0 +1,6 @@
+>A:I|A:I->A:,C:->C:I
+>B:I|B:I->B:,C:->C:I
+>~A:I,~B:I|*->
+A:IIIII
+B:III
+C:I
