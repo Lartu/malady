@@ -1,11 +1,10 @@
-import sys
-
 #!/usr/bin/python3
 # +---------------------------+
 # | Python Malady Interpreter |
 # +---------------------------+----------+
 # | by Martín del Río (github.com/lartu) |
 # +--------------------------------------+
+import sys
 
 VERSION = "1.0"
 
